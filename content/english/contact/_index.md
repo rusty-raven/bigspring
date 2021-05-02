@@ -6,9 +6,5 @@ title: Contact Us
 ---
 
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+### Thanks for contacting us!
+Is there a feature or capability that you would like to propose for the service?  Do you need help with a reporting or analytic challenge? What ever the case we look forward to hearing from you and responding to your inquiry.

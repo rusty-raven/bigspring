@@ -1,101 +1,74 @@
 ---
 banner:
   button:
-    enable: true
-    label: Contact With Us
+    enable: false
+    label: Contact Us
     link: contact
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
-  image: images/banner-art.svg
-  title: Let us solve your critical website <br> development challenges
+  content: straightforward analysis for the retail investor
+  image: images/gbbanner.svg
+  title: simplified reporting. period.
 call_to_action:
   button:
     enable: true
-    label: Contact Us
-    link: contact
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+    label: Get Started
+    link: 'https://youtu.be/c6AAKkGxtcU'
+  content: It is doubtful this service will be free forever so why not give it a try while it is?  Check out the one-minute introductory video and start applying E5C Analytics to your investing tool kit today! 
   enable: true
-  image: images/cta.svg
+  image: ""
   title: Ready to get started?
 feature:
   enable: true
   feature_item:
-  - content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-    icon: fas fa-code
-    name: Clean Code
-  - content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-    icon: fas fa-object-group
-    name: Object Oriented
-  - content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-    icon: fas fa-user-clock
-    name: 24h Service
-  - content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - content: Applying open source methods to provide great low cost service
     icon: fas fa-heart
     name: Value For Money
-  - content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - content: Straightforward metrics presenting key investment insights
     icon: fas fa-tachometer-alt
-    name: Faster Response
-  - content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    name: Meaningful Metrics
+  - content: modern approach to explore and analyze your investments
     icon: fas fa-cloud
-    name: Cloud Support
-  title: Something You Need To Know
+    name: Simple Interface
+  title: a service driven by clear guiding principles
 screenshot:
   enable: true
-  image: images/screenshot.svg
-  title: Experience the best <br> workflow with us
+  image: images/workflow.svg 
+  title: streamlined workflows <br> giving real insights
 service:
   enable: true
   service_item:
   - button:
       enable: true
-      label: Check it out
-      link: '#'
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+      label: check it out
+      link: 'dashboard'
+    content: A mission to remove efforts in portfolio monitoring many investors find, frankly, cumbersome. Requiring a minimum of user inputs E5C Analytics presents a useful output giving you what you need most - no fuss portfolio performance analysis.
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
-    title: It is the most advanced digital marketing and it company.
+    - images/slider-1.png
+    - images/slider-2.png
+    - images/slider-3.png
+    title: fresh approach to portfolio analysis
   - button:
       enable: true
-      label: Check it out
-      link: '#'
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+      label: check it out
+      link: 'dashboard'
+    content: It is a pretty good bet a [short video](https://youtu.be/c6AAKkGxtcU) orientation is all that you need to get going with this service.  Should you need a little more detail to get you going with our service check out the [FAQ](faq) for tips and explanations.
     images:
-    - images/service-1.png
-    title: It is a privately owned Information and cyber security company
+    - images/e5cvid.png
+    title: committed to the principle of keeping things simple
   - button:
       enable: true
-      label: Check it out
-      link: '#'
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+      label: about this service
+      link: 'about'
+    content:  Download underlying reporting data to store as a personal archive or for additional analysis.  A robust table of portfolio data including US dollar to Canadian dollar exchange rates, invested amounts, current market values and portfolio allocation information ready at the click of a button.
     images:
-    - images/service-2.png
-    title: It’s a team of experienced and skilled people with distributions
+    - images/morethancharts.png
+    title: more than pretty charts
   - button:
       enable: true
-      label: Check it out
+      label: check it out
       link: '#'
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Not sure that reinventing the mainstream is the best description of this service but we like to think that we are disruptive to a degree!  A simple, effective approach to providing you meaningful portfolio insights is our mission.  If not being big on providing sizzle with no value-add is disruptive, then we are happy to be lumped in with all those disruptors out there. 
     images:
-    - images/service-3.png
-    title: A company standing different from others
+    - images/disruptor-1.png
+    title: proud to stand apart from others
 ---
+

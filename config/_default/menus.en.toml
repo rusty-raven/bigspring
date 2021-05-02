@@ -5,14 +5,14 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog"
+name = "Dashboard"
+url = "dashboard"
 weight = 2
 
-[[main]]
-name = "Pricing"
-url = "pricing"
-weight = 3
+#[[main]]
+#name = "Pricing"
+#url = "pricing"
+#weight = 3
 
 [[main]]
 name = "Contact"
@@ -26,39 +26,39 @@ weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
-url = "#"
+name = "About"
+url = "about"
 
-[[footer_left]]
-name = "Quick Start"
-url = "#"
+#[[footer_left]]
+#name = "Quick Start"
+#url = "#"
 
-[[footer_left]]
-name = "Pricing"
-url = "pricing"
+#[[footer_left]]
+#name = "Pricing"
+#url = "pricing"
 
 
 # footer menu middle
-[[footer_middle]]
-name = "Pricing"
-url = "pricing"
+#[[footer_middle]]
+#name = "Pricing"
+#url = "pricing"
 
-[[footer_middle]]
-name = "Platform"
-url = "#"
+#[[footer_middle]]
+#name = "Platform"
+#url = "#"
 
 [[footer_middle]]
 name = "Features"
 url = "#"
 
 # footer menu right
-[[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
+#[[footer_right]]
+#name = "Privacy Policy"
+#url = "privacy-policy"
 
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
+#[[footer_right]]
+#name = "Terms & Conditions"
+#url = "terms-conditions"
 
 [[footer_right]]
 name = "FAQ"

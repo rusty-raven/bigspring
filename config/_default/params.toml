@@ -5,7 +5,7 @@ logo_width = "200px"
 description = "This is meta description"
 author = "Themefisher"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/myylkpgl" # contact form works with https://formspree.io
 
 # Preloader
 [preloader]
@@ -16,26 +16,26 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Get Started"
-link = "contact"
+link = "dashboard"
 
   
 ############################# social site ########################
-[[social]]
-title = "facebook"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[social]]
+#title = "facebook"
+#icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[social]]
+#title = "twitter"
+#icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
-[[social]]
-title = "skype"
-icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[social]]
+#title = "skype"
+#icon = "fab fa-skype" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/53526709/admin/"
