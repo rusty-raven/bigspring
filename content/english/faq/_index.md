@@ -4,8 +4,6 @@ draft: false
 subtitle: ""
 title: Frequently Asked Questions
 ---
-
-
 {{< faq "How do I provide data for analysis?" >}}
 To use the dashboard select 'CSV File Upload' function just above the dashboard.  A template file with the data format expected by the dashboard can be [downloaded](files/MYPORTFOLIO.zip), edited with your data and then uploaded via the CSV File Upload function.  If needed, the format of the tickers in the file for upload can be cross-referenced with [Yahoo Finance](https://finance.yahoo.com). After uploading your .csv file see the portfolio report by selecting *Dashboard* and then *Portfolio Report* from the sidebar menu.
 {{</ faq >}}
@@ -27,12 +25,12 @@ No data user portfolio data is kept by this service.  This is precisely the reas
 {{</ faq >}}
 
 {{< faq "I need a unique report, can you make it?" >}}
-E5C Analytics would be pleased to respond to a custom reporting or data analysis need.  Drop us an email describing your analysis or reporting need and let us reply with how we can help you fulfill your requirement.
+E5C Analytics would be pleased to respond to a custom reporting or data analysis need.  Drop us note via the [contact form](/contact) an email describing your analysis or reporting need and let us reply with how we can help you fulfill your requirement.
 {{</ faq >}}
 
 
 {{< faq "Do you accept requests for new features in the service?" >}}
-We are interested to hear what you have in mind for features and enhancements.  The only thing we ask is that you keep our guiding principles of **Value for Money**, **Meaningful Metrics** and keeping a **Simple Interface** in mind with any suggestions.    Development requests fitting those criteria will certainly be considered as future enhancements providing value-add to the service.
+We are interested to [hear what you have in mind](/contact) for features and enhancements.  The only thing we ask is that you keep our guiding principles of **Value for Money**, **Meaningful Metrics** and keeping a **Simple Interface** in mind with any suggestions.    Development requests fitting those criteria will certainly be considered as future enhancements providing value-add to the service.
 {{</ faq >}}
 
 {{< faq "Do you provide refunds?" >}}
