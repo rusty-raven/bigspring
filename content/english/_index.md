@@ -15,7 +15,7 @@ call_to_action:
   content: It is doubtful this service will be free forever so why not give it a try while it is?  Check out the one-minute introductory video and start applying E5C Analytics to your investing tool kit today! 
   enable: true
   image: ""
-  title: Ready to get started?
+  title: ready to get started?
 feature:
   enable: true
   feature_item:
