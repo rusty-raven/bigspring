@@ -1,4 +1,6 @@
 ---
+description: E5C Analytics provides simplified reporting with the retail investor in mind.
+---
 banner:
   button:
     enable: false
