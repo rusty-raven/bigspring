@@ -21,7 +21,7 @@ Most likely the data has been provided in a format other than .csv or the .csv f
 {{</ faq >}}
 
 {{< faq "Are you keeping a record of my supplied data?" >}}
-No data user portfolio data is kept by this service.  This is precisely the reason why users of our service provide their data when an analysis is wanted via an upload rather than keeping a database of all user's investment details.  No customer data is retained locally.  The current session is completed as soon as the user leaves the website.
+No user portfolio data is kept by this service.  This is precisely the reason why users of our service provide their data when an analysis is wanted via an upload rather than keeping a database of all user's investment details.  The active session is removed as soon as the user leaves the website.
 {{</ faq >}}
 
 {{< faq "I need a unique report, can you make it?" >}}
