@@ -11,7 +11,7 @@ To use the dashboard select 'CSV File Upload' function just above the dashboard.
 {{</ faq >}}
 
 {{< faq "The report is not running properly after uploading my data, what gives?" >}}
-Most likely the data has been provided in a format other than .csv or the .csv file that has been provided does not meet the expected format for the application to work with. An example file with the content the application is designed to ork is [available for download](files/MYPORTFOLIO.zip). The application expects a .csv file that contains:(br)
+Most likely the data has been provided in a format other than .csv or the .csv file that has been provided does not meet the expected format for the application to work with. An example file with the content the application is designed to work is [available for download](files/MYPORTFOLIO.zip). The application expects a .csv file that contains:  
 **Description:** Either the name of the company or "CONTRIBUTION" if the action is one of "DEPOSIT"  
 **Action:** Recorded as "DEPOSIT" for a contribution or "BUY" for a stock purchase  
 **Symbol:** The ticker symbol as referenced by [Yahoo Finance](https://finance.yahoo.com) if the action is one of BUY or "DEPOSIT" if the action is one of "DEPOSIT".  
