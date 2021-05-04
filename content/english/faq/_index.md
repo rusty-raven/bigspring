@@ -30,7 +30,7 @@ No user portfolio data is kept by this service.  This is the reason why users of
 {{</ faq >}}
 
 {{< faq "I need a unique report, can you make it?" >}}
-E5C Analytics would be pleased to respond to a custom reporting or data analysis need.  Drop us note via the [contact form](/contact) an email describing your analysis or reporting need and let us reply with how we can help you fulfill your requirement.
+E5C Analytics would be pleased to respond to a custom reporting or data analysis need.  Drop us note via the [contact form](/contact) describing your analysis or reporting need and let us reply with how we can help you fulfill your requirement.
 {{</ faq >}}
 
 
