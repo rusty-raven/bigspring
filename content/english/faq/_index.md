@@ -18,7 +18,7 @@ Most likely the data has been provided in a format other than .csv or the .csv f
 **Description:** Either the name of the company or "CONTRIBUTION" if the action is one of "DEPOSIT"  
 **Action:** Recorded as "DEPOSIT" for a contribution or "BUY" for a stock purchase  
 **Symbol:** The ticker symbol as referenced by [Yahoo Finance](https://finance.yahoo.com) if the action is one of BUY or "DEPOSIT" if the action is one of "DEPOSIT".  
-**Date:** The date of the stock purchase or constribution deposit in the format of m/d/yyyy.  For example December 27 2017 purchase would be provided as 12/27/2017.  
+**Date:** The date of the stock purchase or contribution deposit in the format of m/d/yyyy.  For example December 27 2017 purchase would be provided as 12/27/2017.  
 **Quantity:** The number of stock purchased.  If the action is one of DEPOSIT this value can be entered as 0.  
 **Currency:** The currency applied to the the stock purchase.  Currently USD and CAD are handled by the application.  
 **BuyPrice** If the Action is one of "DEPOSIT" this is the amount of the DEPOSIT made for stock purchases.  If the Action is one of "BUY" this per unit purchase price for the stock.  
