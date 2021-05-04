@@ -50,7 +50,7 @@ service:
       enable: true
       label: check it out
       link: 'dashboard'
-    content: It is a pretty good bet a [short video](https://youtu.be/c6AAKkGxtcU) orientation is all that you need to get going with this service.  Should you need a little more detail to get you going with our service check out the [FAQ](faq) for tips and explanations.
+    content: It is a pretty good bet a [short video](https://youtu.be/c6AAKkGxtcU) review is all that you need to get going with this service.  Should you need a little more detail check out the [FAQ](faq) for tips and explanations.
     images:
     - images/e5cvid.png
     title: committed to the principle of keeping things simple
