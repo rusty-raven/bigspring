@@ -18,7 +18,7 @@ This service addresses the tracking problem with three guiding principles in min
 ##### Value for Money
 *Applying open source methods to provide great low-cost service.*  That is not to say the service looks to apply only free, questionable services to try to build some product to charge a fee to users.  There are plenty of enterprise-grade open source options available in the marketplace. This service is a consumer of one the best in analytics and web application development available today.  
 
-All of the analytics and data mutations supplied in this service are done in the R Programming Language. Not only does R open up a host of statistical options, it brings capabilities that simplify many of the challenges the Retail Investor experiences in portfolio analysis.  Using world-class services based in open source principles results in world-class capabilities consumers of E5C Analytics services. 
+All of the analytics and data mutations supplied in this service are done in the R Programming Language. Not only does R open up a host of statistical options, it brings capabilities that simplify many of the challenges the Retail Investor experiences in portfolio analysis.  Using world-class services based in open source principles results in world-class capabilities being made available to consumers of E5C Analytics services. 
 
 
 ##### Meaningful Metrics
