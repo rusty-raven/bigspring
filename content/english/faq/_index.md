@@ -1,5 +1,5 @@
 ---
-description: This is meta description
+description: E5C Analytics reporting for the retail investor FAQs
 draft: false
 subtitle: ""
 title: Frequently Asked Questions
