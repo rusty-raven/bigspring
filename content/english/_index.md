@@ -11,7 +11,7 @@ call_to_action:
   button:
     enable: true
     label: Get Started
-    link: 'https://youtu.be/c6AAKkGxtcU'
+    link: 'https://youtu.be/JZoyotct2pg'
   content: It is doubtful this service will be free forever so why not give it a try while it is?  Check out the one-minute introductory video and start applying E5C Analytics to your investing tool kit today! 
   enable: true
   image: ""
@@ -50,7 +50,7 @@ service:
       enable: true
       label: check it out
       link: 'dashboard'
-    content: It is a pretty good bet a [short video](https://youtu.be/c6AAKkGxtcU) review is all that you need to get going with this service.  Should you need a little more detail check out the [FAQ](faq) for tips and explanations.
+    content: It is a pretty good bet a [short video](https://youtu.be/JZoyotct2pg) review is all that you need to get going with this service.  Should you need a little more detail check out the [FAQ](faq) for tips and explanations.
     images:
     - images/e5cvid.png
     title: committed to the principle of keeping things simple
