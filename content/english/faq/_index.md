@@ -5,7 +5,11 @@ subtitle: ""
 title: Frequently Asked Questions
 ---
 {{< faq "How do I provide data for analysis?" >}}
-To use the dashboard select 'CSV File Upload' function just above the dashboard.  A template file with the data format expected by the dashboard can be [downloaded](files/MYPORTFOLIO.zip), edited with your data and then uploaded via the CSV File Upload function.  If needed, the format of the tickers in the file for upload can be cross-referenced with [Yahoo Finance](https://finance.yahoo.com). After uploading your .csv file see the portfolio report by selecting *Dashboard* and then *Portfolio Report* from the sidebar menu.
+To use the dashboard select 'CSV File Upload' function just above the dashboard application on the Dashboard page.  
+A template file with the data format expected by the dashboard can be [downloaded](files/MYPORTFOLIO.zip). Edit the template with your data and uploaded via the CSV File Upload function.  
+
+The format of the tickers in the file for upload can be cross-referenced with [Yahoo Finance](https://finance.yahoo.com). After uploading your .csv, the dashboard will update using the data provided in the .csv file.  
+ 
 {{</ faq >}}
 
 {{< faq "The report is not running properly after uploading my data, what gives?" >}}
