@@ -31,7 +31,7 @@ feature:
   title: a service driven by clear guiding principles
 screenshot:
   enable: true
-  image: images/workflow.svg 
+  image: images/workflow-1.svg 
   title: streamlined workflows <br> giving real insights
 service:
   enable: true
