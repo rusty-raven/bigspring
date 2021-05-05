@@ -66,7 +66,7 @@ service:
       enable: true
       label: check it out
       link: '#'
-    content: Not sure that reinventing the mainstream is the best description of this service but we like to think that we are disruptive to a degree!  A simple, effective approach to providing you meaningful portfolio insights is our mission.  If not being big on providing sizzle with no value-add is disruptive, then we are happy to be lumped in with all those disruptors out there. 
+    content: Not sure that reinventing mainstream portfolio reporting and analysis is the best description of this service but it is fun to think it is disruptive to a degree!  A simple, effective approach to providing meaningful insights to the retail investor is the mission.  If NOT being big on providing sizzle with no value-add is disruptive, fair enough, disruptive this service is. 
     images:
     - images/disruptor-1.png
     title: proud to stand apart from others
