@@ -2,8 +2,8 @@
 logo = "images/logo.png"
 logo_width = "200px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Straightforward analysis for the retail investor"
+author = "Greg Boone | E5C Analytics"
 # contact form action
 contact_form_action = "https://formspree.io/f/myylkpgl" # contact form works with https://formspree.io
 

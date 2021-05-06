@@ -33,4 +33,4 @@ The ability to perform sophisticated and innovative reporting and analytics are 
 
 
 ##### Simple Interface
-An effective User Interface is easy to maneuver and manipulate. A guiding principle of simplicity in design while providing value and meaningful outputs is a cornerstone to this service offering.  This service keeps the principle of accurate and intuitive user experience as the primary need to be met for users of the service.
+*An effective User Interface.*  Simplicity in design while providing value and meaningful outputs is a cornerstone to this service offering.  

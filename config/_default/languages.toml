@@ -5,7 +5,7 @@ title = "E5C Analytics"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Company"
+footer_menu_left = "Service"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
 footer_content = "inspired by investor forums discussing options for tracking stock portfolios"
