@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "E5C"
+baseURL = "https://e5canalytics.com/"
+title = "E5C Analytics"
 theme = "bigspring"
 # post pagination
 paginate = "3"
@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "UA-135279366-2" # example : UA-123-45
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
