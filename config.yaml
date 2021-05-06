@@ -4,7 +4,7 @@ theme: bigspring-hugo-startup-theme
 paginate: '3'
 summaryLength: '15'
 disqusShortname: ''
-googleAnalytics: 'UA-135279366-2'
+googleAnalytics: 'UA-135279366-1'
 markup:
   goldmark:
     renderer:
