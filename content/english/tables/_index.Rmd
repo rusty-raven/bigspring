@@ -32,7 +32,7 @@ stksmry %>%
 ```
 
 ### Performance Detail Table
-Field definitions for the Stock Summary table
+Field definitions for the Performance Detail table
 
 
 ```{r cars, echo=F, message=FALSE}
