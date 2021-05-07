@@ -5,7 +5,7 @@ subtitle: ""
 title: Frequently Asked Questions
 ---
 {{< faq "How do I provide data for analysis?" >}}
-To use the dashboard select 'CSV File Upload' function just above the dashboard application on the Dashboard page.  Steps to [get started](getstarted) provides additional detail to help with data format questions.
+To use the dashboard select the 'CSV File Upload' function just above the dashboard application on the Dashboard page.  The Steps to [get started](getstarted) page provides additional detail to help with data format questions.
 
 A template file with the data format expected by the dashboard is available for [download](files/MYPORTFOLIO.zip). Edit the template with your data and uploaded via the CSV File Upload function.  
  
@@ -17,9 +17,9 @@ Most likely the data has been provided in a format other than .csv or the .csv f
 
 {{</ faq >}}
 
-{{< faq "In the Dashboard, what do the column names mean?" >}}
+{{< faq "What do the dashboard column names mean?" >}}
   
-To keep the tables in the dashboard a reasonable width for display some liberties have been taken with column names.  Please refer to [table field definitions](tables) for full explanations of the column  names and formula details applied to calculated values.
+A full description of the column names and applied formulas is available on the tables [table field definitions](tables) page..
 
 {{</ faq >}}
 
@@ -28,17 +28,17 @@ To keep the tables in the dashboard a reasonable width for display some libertie
 No user portfolio data is kept by this service.  This is the reason why users of the service provide their data when an analysis is wanted via an upload rather than keeping a local database of all user's investment details.  The active session is removed as soon as the user leaves the website.
 {{</ faq >}}
 
-{{< faq "I need a unique report, can you make it?" >}}
-E5C Analytics would be pleased to respond to a custom reporting or data analysis need.  Drop us note via the [contact form](/contact) describing your analysis or reporting need and let us reply with how we can help you fulfill your requirement.
+{{< faq "Do you provide services beyond the Portfolio Reporting on this site?" >}}
+E5C Analytics is able to support to a range reporting and analysis needs from report development, data analysis, data cleansing and text analysis.  Send a description of your analysis or reporting need via the [contact form](/contact) to receive a response on how E5C Analytics would approach solving for your specific requirement. 
 {{</ faq >}}
 
 
 {{< faq "Do you accept requests for new features in the service?" >}}
-We are interested to [hear what you have in mind](/contact) for features and enhancements.  The only thing we ask is that you keep our guiding principles of **Value for Money**, **Meaningful Metrics** and keeping a **Simple Interface** in mind with any suggestions.    Development requests fitting those criteria will certainly be considered as future enhancements providing value-add to the service.
+Suggestions in keeping with our guiding principles of **Value for Money**, **Meaningful Metrics** and a **Simple Interface** are always welcome.  Development requests fitting those criteria will certainly be considered as future enhancements providing value-add to the service.  Ideas and suggestions can be sent using the [contact form](/contact).
 {{</ faq >}}
 
 {{< faq "Do you provide refunds?" >}}
-At this point the service is free, so no refunds are offered obviously.  Should there ever come a time when the service is subscription fee-based a refund policy will be part of that subscription agreement. 
+At this point the service is free, so no refunds are offered obviously.  To be candid, there is no real plan to start charging for the service.  Should there ever come a time when the service is subscription fee-based a refund policy will be definitely part of that subscription agreement. 
 {{</ faq >}}
 
 
