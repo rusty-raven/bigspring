@@ -43,9 +43,9 @@ url = "about"
 #name = "Pricing"
 #url = "pricing"
 
-#[[footer_middle]]
-#name = "Platform"
-#url = "#"
+[[footer_middle]]
+name = "Get Started"
+url = "getstarted"
 
 [[footer_middle]]
 name = "Features"
