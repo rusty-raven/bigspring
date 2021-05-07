@@ -25,20 +25,20 @@ A full description of the column names and applied formulas is available on the 
 
 
 {{< faq "Are you keeping a record of my supplied data?" >}}
-No user portfolio data is kept by this service.  This is the reason why users of the service provide their data when an analysis is wanted via an upload rather than keeping a local database of all user's investment details.  The active session is removed as soon as the user leaves the website.
+No user portfolio data is kept by this service.  This is the reason why users of the service provide their data when an analysis is wanted via an upload rather than keeping a local database of all user's investment details.  The active session is removed as soon as the user leaves the dashboard web page.
 {{</ faq >}}
 
 {{< faq "Do you provide services beyond the Portfolio Reporting on this site?" >}}
-E5C Analytics is able to support to a range reporting and analysis needs from report development, data analysis, data cleansing and text analysis.  Send a description of your analysis or reporting need via the [contact form](/contact) to receive a response on how E5C Analytics would approach solving for your specific requirement. 
+E5C Analytics is able to support a range reporting and analysis needs including data cleansing, report development, statistical analysis, and text analytics.  Send a description of your analysis or reporting need via the [contact form](/contact). After review of the description E5C Analytics will respond back with an approach to solving for your specific requirement. 
 {{</ faq >}}
 
 
 {{< faq "Do you accept requests for new features in the service?" >}}
-Suggestions in keeping with our guiding principles of **Value for Money**, **Meaningful Metrics** and a **Simple Interface** are always welcome.  Development requests fitting those criteria will certainly be considered as future enhancements providing value-add to the service.  Ideas and suggestions can be sent using the [contact form](/contact).
+Suggestions in keeping with our guiding principles of **Value for Money**, **Meaningful Metrics** and a **Simple Interface** are always welcome.  Development requests fitting those criteria will certainly be considered as value-add enhancements to the service.  Ideas and suggestions can be sent using the [contact form](/contact).
 {{</ faq >}}
 
 {{< faq "Do you provide refunds?" >}}
-At this point the service is free, so no refunds are offered obviously.  To be candid, there is no real plan to start charging for the service.  Should there ever come a time when the service is subscription fee-based a refund policy will be definitely part of that subscription agreement. 
+At this point the service is free, so no refunds are offered obviously.  Should there ever come a time when the service is subscription fee-based a refund policy will be definitely be part of any  subscription agreement. 
 {{</ faq >}}
 
 
