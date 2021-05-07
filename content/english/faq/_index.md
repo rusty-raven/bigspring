@@ -17,9 +17,9 @@ Most likely the data has been provided in a format other than .csv or the .csv f
 
 {{</ faq >}}
 
-{{< faq "Are there explinatons the table fields?" >}}
+{{< faq "In the Dashboard, what do the column names mean?" >}}
   
-Please refer to [table field definitions](tables) 
+To keep the tables in the dashboard a reasonable width for display some liberties have been taken with column names.  Please refer to [table field definitions](tables) for full explanations of the column  names and formula details applied to calculated values.
 
 {{</ faq >}}
 
