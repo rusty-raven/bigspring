@@ -10,7 +10,7 @@ banner:
 call_to_action:
   button:
     enable: true
-    label: Get Started
+    label: Video Demo
     link: 'https://youtu.be/JZoyotct2pg'
   content: It is doubtful this service will be free forever so why not give it a try while it is?  Check out the one-minute introductory video and start applying E5C Analytics to your investing tool kit today! 
   enable: true
@@ -37,7 +37,7 @@ service:
   enable: true
   service_item:
   - button:
-      enable: true
+      enable: false
       label: check it out
       link: 'dashboard'
     content: A mission to remove efforts in portfolio monitoring many investors find, frankly, cumbersome. Requiring a minimum of user inputs E5C Analytics presents a useful output giving you what you need most - no fuss portfolio performance analysis.
@@ -50,7 +50,7 @@ service:
       enable: true
       label: check it out
       link: 'dashboard'
-    content: It is a pretty good bet a [short video](https://youtu.be/JZoyotct2pg) review is all that you need to get going with this service.  Should you need a little more detail check out the [FAQ](faq) for tips and explanations.
+    content: It is a pretty good bet a [short video](https://youtu.be/JZoyotct2pg) review is all that you need to get going with this service.  Should you need a little more detail check out [Get Started](getsarted) for tips and explanations.
     images:
     - images/e5cvid.png
     title: committed to the principle of keeping things simple
@@ -63,7 +63,7 @@ service:
     - images/morethancharts.png
     title: more than pretty charts
   - button:
-      enable: true
+      enable: false
       label: check it out
       link: '#'
     content: Not sure that reinventing mainstream portfolio reporting and analysis is the best description of this service but it is fun to think it is disruptive to a degree!  A simple, effective approach to providing meaningful insights to the retail investor is the mission.  If NOT being big on providing sizzle with no value-add is disruptive, fair enough, disruptive this service is. 

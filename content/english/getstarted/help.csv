@@ -1,0 +1,8 @@
+Field,Explination,Format
+Description,"Either the name of the company or ""CONTRIBUTION"" if the action is one of ""DEPOSIT""  ",text
+Action,"Recorded as ""DEPOSIT"" for a contribution or ""BUY"" for a stock purchase  ",upper case text
+Symbol,"The ticker symbol as referenced by [Yahoo Finance](https://finance.yahoo.com) if the action is one of BUY or ""DEPOSIT"" if the action is one of ""DEPOSIT"".  ",upper case text
+Date,The date of the stock purchase or contribution deposit.  For example December 27 2017 purchase would be provided as 12/27/2017.  ,mm/dd/yyyy
+Quantity,The number of stock purchased.  If the action is one of DEPOSIT this value can be entered as 0.  ,numeric
+Currency,The currency applied to the the stock purchase.  Currently USD and CAD are handled by the application.  ,text (either CAD or USD)
+BuyPrice,"If the Action is one of ""DEPOSIT"" this is the amount of the DEPOSIT made for stock purchases.  If the Action is one of ""BUY"" this per unit purchase price for the stock.  ",numeric

@@ -1,0 +1,68 @@
+---
+title: "Getting Started"
+author: "E5C Analytics"
+date: "5/6/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(readr)
+library(kableExtra)
+#library(blogdown)
+#blogdown::stop_server()
+```
+
+### data format
+
+The dashboard application works with a user provided file in .csv format described as follows.
+
+
+```{r sample, echo= F, message=FALSE}
+library(readr)
+samp <- read_csv("sample.csv")
+
+samp %>%
+  kable() %>%
+  kable_styling() %>%
+   column_spec(1, width = "1.6in")
+
+
+```
+
+The format of the tickers in the file for upload can be cross-referenced with [Yahoo Finance](https://finance.yahoo.com).  Pay particular attention to entry of Canadian exchange listings as these symbols include identifiers such as .TO or .V etc.  For example, BB will return Blackberry from NYSE listings while BB.TO will return Blackberry from TSX listings.  
+A template .csv file is available for [download](files/MYPORTFOLIO.zip). Edit the template with your data and uploaded via the CSV File Upload function on the Dashboard page.
+
+
+```{r cars, echo=F, message=FALSE}
+#summary(cars)
+library(readr)
+#library(data.table)
+#library(DT)
+library(kableExtra)
+
+help <- read_csv("help.csv")
+help %>%
+  kable() %>%
+  kable_styling() %>%
+   column_spec(1, width = "1.25in")
+
+
+```
+### data upload
+Data for analysis and reporting is provided to the application with the Data Upload function on the Dashboard page.  Click "Browse" to select a local .csv matching the .csv file input description earlier.  Once the file has been selected the application will upload the file, perform necessary data mutations and present the results in tab panel view.  
+![](/images/upload.png){width=75%}
+
+
+### review results 
+After the file upload and data pull has been completed the application will update with a dashboard view presenting several key pieces of portfolio summaries.  The dashboard has three distinct sets of information displayed.  
+
+* The upper left hand area provides tab access to graphs of Stock Performance, Portfolio Trend and Portfolio Diversity.  
+* The upper right hand area provides a summary view of portfolio data.
+* The bottom area of dashboard provides tab access to table data of Stock Summary and Performance Detail.
+
+Stock Summary and Performance Detail tables can be saved locally by clicking the CSV button just above the table.  The CSV export will export the records reflected in Show Entries.  To export all records, set Show Entries to a value of 'All'.
+
+![](images/dashboard.png){width=75%}
+
