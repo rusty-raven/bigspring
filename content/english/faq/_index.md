@@ -13,16 +13,16 @@ A template file with the data format expected by the dashboard is available for 
 {{</ faq >}}
 
 {{< faq "The report is not running properly after uploading my data, what gives?" >}}
-Most likely the data has been provided in a format other than .csv or the .csv file that has been provided does not meet the expected format for the application to work with. An example file with the content the application is designed to work is [available for download](files/MYPORTFOLIO.zip). The application expects a .csv file that contains:  
-**Description:** Either the name of the company or "CONTRIBUTION" if the action is one of "DEPOSIT"  
-**Action:** Recorded as "DEPOSIT" for a contribution or "BUY" for a stock purchase  
-**Symbol:** The ticker symbol as referenced by [Yahoo Finance](https://finance.yahoo.com) if the action is one of BUY or "DEPOSIT" if the action is one of "DEPOSIT".  
-**Date:** The date of the stock purchase or contribution deposit in the format of m/d/yyyy.  For example December 27 2017 purchase would be provided as 12/27/2017.  
-**Quantity:** The number of stock purchased.  If the action is one of DEPOSIT this value can be entered as 0.  
-**Currency:** The currency applied to the the stock purchase.  Currently USD and CAD are handled by the application.  
-**BuyPrice** If the Action is one of "DEPOSIT" this is the amount of the DEPOSIT made for stock purchases.  If the Action is one of "BUY" this per unit purchase price for the stock.  
+Most likely the data has been provided in a format other than .csv or the .csv file that has been provided does not meet the expected format for the application to work with. An example file with the content the application is designed to work is [available for download](files/MYPORTFOLIO.zip). Additional details about the data format is available on the [getting started](getstarted) page.  
 
 {{</ faq >}}
+
+{{< faq "Are there explinatons the table fields?" >}}
+  
+Please refer to [table field definitions](tables) 
+
+{{</ faq >}}
+
 
 {{< faq "Are you keeping a record of my supplied data?" >}}
 No user portfolio data is kept by this service.  This is the reason why users of the service provide their data when an analysis is wanted via an upload rather than keeping a local database of all user's investment details.  The active session is removed as soon as the user leaves the website.

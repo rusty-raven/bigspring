@@ -1,0 +1,52 @@
+---
+title: "Dashboard Table Explinations"
+author: "E5C Analytics"
+date: "5/6/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(readr)
+library(kableExtra)
+#library(blogdown)
+#blogdown::stop_server()
+```
+
+### Stock Summary  Table
+
+Field definitions for the Stock Summary table
+
+
+```{r sample, echo= F, message=FALSE}
+library(readr)
+stksmry <- read_csv("stksmrytbl.csv")
+
+stksmry %>%
+  kable() %>%
+  kable_styling() %>%
+   column_spec(1, width = "1.6in")
+
+
+```
+
+### Performance Detail Table
+Field definitions for the Stock Summary table
+
+
+```{r cars, echo=F, message=FALSE}
+#summary(cars)
+library(readr)
+#library(data.table)
+#library(DT)
+library(kableExtra)
+
+prfdtl <- read_csv("pefdtltbl.csv")
+prfdtl %>%
+  kable() %>%
+  kable_styling() %>%
+   column_spec(1, width = "1.25in")
+
+
+```

@@ -1,0 +1,183 @@
+---
+title: "Dashboard Table Explinations"
+author: "E5C Analytics"
+date: "5/6/2021"
+output: html_document
+---
+
+<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
+<link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
+
+
+<div id="stock-summary-table" class="section level3">
+<h3>Stock Summary Table</h3>
+<p>Field definitions for the Stock Summary table</p>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Field
+</th>
+<th style="text-align:left;">
+Definition
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;width: 1.6in; ">
+Symbol
+</td>
+<td style="text-align:left;">
+Listed trading symbol
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.6in; ">
+CstBasis
+</td>
+<td style="text-align:left;">
+Caluclated value. Sum of BuyPrice x BuyFX x Qty of stock/share purchase
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.6in; ">
+MktVal
+</td>
+<td style="text-align:left;">
+Calculated Value. Sum of BuyPrice x LtsFX x Qty of stock/share purchase
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.6in; ">
+Rtn
+</td>
+<td style="text-align:left;">
+Calculated Value. Sum of (MktVal-CstBasis)/CstBasis x 100
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.6in; ">
+PrctPtfl
+</td>
+<td style="text-align:left;">
+Calculated Value. MktVal/sum(Mktval) x 100 to determine the percentage of the Market value of the stock in relation to the full value of the portfolio.
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="performance-detail-table" class="section level3">
+<h3>Performance Detail Table</h3>
+<p>Field definitions for the Stock Summary table</p>
+<table class="table" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Field
+</th>
+<th style="text-align:left;">
+Definition
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+BuyDate
+</td>
+<td style="text-align:left;">
+Date of stock/share purchase
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+Symbol
+</td>
+<td style="text-align:left;">
+listed trading symbol
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+Dscpt.
+</td>
+<td style="text-align:left;">
+Company, Stock, Share name
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+Qty
+</td>
+<td style="text-align:left;">
+Number of shared purchased on BuyDate
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+Crncy
+</td>
+<td style="text-align:left;">
+Currancy of stock puchase in either Candian or US dollars
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+BuyPrice
+</td>
+<td style="text-align:left;">
+Amount paid per stock purchased on BuyDate
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+AdjCls
+</td>
+<td style="text-align:left;">
+Auto populated. Adjusted Closed stock price for the previous day.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+CstBss
+</td>
+<td style="text-align:left;">
+Caluclated value. Sum of BuyPrice x BuyFX x Qty of stock/share purchase
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+BuyFX
+</td>
+<td style="text-align:left;">
+Auto Populated. When Crncy is recorded as USD, the USD to CAD exchange rate at the date of purchase
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+LtsFX
+</td>
+<td style="text-align:left;">
+Auto Populated. When Crncy is recorded as USD, the USD to CAD exchange rate for the day of report generation
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+MktVal
+</td>
+<td style="text-align:left;">
+Calculated Value. Sum of BuyPrice x LtsFX x Qty of stock/share purchase
+</td>
+</tr>
+<tr>
+<td style="text-align:left;width: 1.25in; ">
+%Rtn
+</td>
+<td style="text-align:left;">
+Calculated Value. Sum of (MktVal-CstBss)/CstBss x 100
+</td>
+</tr>
+</tbody>
+</table>
+</div>

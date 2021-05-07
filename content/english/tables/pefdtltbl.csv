@@ -1,0 +1,13 @@
+﻿Field,Definition
+BuyDate,Date of stock/share purchase
+Symbol,listed trading symbol
+Dscpt.,"Company, Stock, Share name"
+Qty,Number of shared purchased on BuyDate
+Crncy,Currancy of stock puchase in either Candian or US dollars
+BuyPrice,Amount paid per stock purchased on BuyDate
+AdjCls,Auto populated. Adjusted Closed stock price for the previous day.
+CstBss,Caluclated value. Sum of BuyPrice x BuyFX x Qty of stock/share purchase
+BuyFX,"Auto Populated. When Crncy is recorded as USD, the USD to CAD exchange rate at the date of purchase"
+LtsFX,"Auto Populated. When Crncy is recorded as USD, the USD to CAD exchange rate for the day of report generation"
+MktVal,Calculated Value. Sum of BuyPrice x LtsFX x Qty of stock/share purchase
+%Rtn,Calculated Value. Sum of (MktVal-CstBss)/CstBss x 100
