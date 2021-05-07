@@ -1,6 +1,6 @@
 ﻿Field,Definition
 Symbol,Listed trading symbol
-CstBasis,Caluclated value. Sum of BuyPrice x BuyFX x Qty of stock/share purchase
+CstBasis,Calculated value. Sum of BuyPrice x BuyFX x Qty of stock/share purchase
 MktVal,Calculated Value. Sum of BuyPrice x LtsFX x Qty of stock/share purchase
 Rtn,Calculated Value. Sum of (MktVal-CstBasis)/CstBasis x 100
 PrctPtfl,Calculated Value. MktVal/sum(Mktval) x 100 to determine the percentage of the Market value of the stock in relation to the full value of the portfolio.
