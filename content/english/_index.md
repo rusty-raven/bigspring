@@ -25,7 +25,7 @@ feature:
   - content: Straightforward metrics presenting key investment insights
     icon: fas fa-tachometer-alt
     name: Meaningful Metrics
-  - content: A modern approach to exploring investment analysis
+  - content: A modern approach to exploring investments and portolio analysis
     icon: fas fa-cloud
     name: Simple Interface
   title: a service driven by clear guiding principles
