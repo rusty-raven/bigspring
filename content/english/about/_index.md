@@ -7,9 +7,11 @@ title: About
 
 #### Disclaimer
 
-I’m not a certified financial planner/adviser nor a certified financial analyst nor an economist nor a CPA nor an accountant nor a lawyer. I’m not a finance professional through formal education. I’m retail investor who believes and takes pride in a sense of freedom, satisfaction, fulfillment and empowerment that I get from being financially competent and being conscious managing my family’s money. 
+I’m not a certified financial planner/adviser.  I am not a certified financial analyst. I am not an economist nor a CPA nor an accountant nor a lawyer. I’m not a finance professional through formal education. 
 
-The contents on this site are for informational and entertainment purposes only and does not constitute financial, accounting, or legal advice. I can’t promise that the information found on this site is appropriate for you or anyone else. By using this site, you agree to hold me harmless from any ramifications, financial or otherwise, that occur to you as a result of acting on information found on this site.
+I’m retail investor who believes and takes pride in a sense of freedom, satisfaction, fulfillment and empowerment that I get from being financially competent and being conscious managing my family’s invested monies. 
+
+The contents on this site are for informational and entertainment purposes only and does not constitute financial, accounting, or legal advice. I can not promise that the information found on this site is appropriate for you or anyone else. By using this site, you agree to hold me harmless from any ramifications, financial or otherwise, that occur to you as a result of acting on information found on this site.
 
 
 #### A Service With the Retail Investor In Mind
