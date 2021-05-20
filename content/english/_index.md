@@ -4,7 +4,7 @@ banner:
     enable: false
     label: Contact Us
     link: contact
-  content: straightforward analysis for the retail investor
+  content: straightforward for the retail investor
   image: images/gbbanner.svg
   title: simplified reporting. period.
 call_to_action:
@@ -12,7 +12,7 @@ call_to_action:
     enable: true
     label: Video Demo
     link: 'https://youtu.be/JZoyotct2pg'
-  content: It is doubtful this application will be free forever so why not give it a try while it is?  Check out the one-minute introductory video and start applying E5C Analytics web application to your investing tool kit today! 
+  content: It is doubtful this application will be free forever so why not give it a try while it is?  Check out the one-minute introductory video and start applying E5C Analytics' web application to your investing tool kit today! 
   enable: true
   image: ""
   title: ready to get started?
@@ -28,7 +28,7 @@ feature:
   - content: A modern approach for exploring investments and portfolio analysis
     icon: fas fa-cloud
     name: Simple Interface
-  title: an development driven by clear guiding principles
+  title: driven by clear guiding principles
 screenshot:
   enable: true
   image: images/workflow-1.svg 
@@ -45,7 +45,7 @@ service:
     - images/slider-1.png
     - images/slider-2.png
     - images/slider-3.png
-    title: fresh approach to portfolio analysis
+    title: fresh approach to portfolio tracking
   - button:
       enable: true
       label: check it out
