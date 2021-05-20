@@ -5,7 +5,14 @@ subtitle: ""
 title: About
 ---
 
-#### A Service Designed For Retail Investors
+#### Disclaimer
+
+I’m not a certified financial planner/adviser nor a certified financial analyst nor an economist nor a CPA nor an accountant nor a lawyer. I’m not a finance professional through formal education. I’m retail investor who believes and takes pride in a sense of freedom, satisfaction, fulfillment and empowerment that I get from being financially competent and being conscious managing my family’s money. 
+
+The contents on this site are for informational and entertainment purposes only and does not constitute financial, accounting, or legal advice. I can’t promise that the information found on this site is appropriate for you or anyone else. By using this site, you agree to hold me harmless from any ramifications, financial or otherwise, that occur to you as a result of acting on information found on this site.
+
+
+#### A Service With the Retail Investor In Mind
 
 The retail investor often collaborates, shares information, leanings, tips and insights in online forums.  It is in the online communities where the idea of this service originates.  A recurring theme raised by many new investors in the forums is how to track and analyze portfolios.  There are plenty of options available for portfolio tracking available ranging from DYI spreadsheets to robust online services.  
 
